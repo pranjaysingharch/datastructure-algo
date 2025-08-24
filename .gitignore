@@ -1,0 +1,35 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Maven
+target/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Test reports
+test-output/
+
+# Others
+shelf/
+workspace.xml
