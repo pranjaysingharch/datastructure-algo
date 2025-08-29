@@ -9,7 +9,7 @@ def is_palindrome_valid(s: str) -> bool:
             right -= 1
         # If the characters at the left and right pointers don’t match, the string is
         # not a palindrome.
-        if s[left] != s[right]:
+        if s[left].lower() != s[right].lower() :
             return False
         left += 1
         right -= 1
