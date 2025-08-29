@@ -1,4 +1,4 @@
-package two.pointer.two.pair.sum.sorted;
+package two.pointer;
 
 import java.util.ArrayList;
 import java.util.List;

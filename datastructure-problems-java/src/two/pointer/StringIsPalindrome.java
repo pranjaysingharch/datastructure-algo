@@ -1,7 +1,7 @@
-package two.pointer.palindrome;
+package two.pointer;
 
 //Two Pointer Approach to check if a string is a palindrome
-public class Palindrom {
+public class StringIsPalindrome {
     public static void main(String[] args) {
         String str = "racecar";
         System.out.println(isPalindrome(str)); // true

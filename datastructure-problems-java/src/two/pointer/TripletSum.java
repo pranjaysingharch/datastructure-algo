@@ -1,4 +1,4 @@
-package two.pointer.triplet.sum;
+package two.pointer;
 
 import java.util.*;
 
